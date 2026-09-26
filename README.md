@@ -1,3 +1,5 @@
+> **This is a fork.** My own experiments, procedure and (honest) results are in [EXPERIMENTS.md](EXPERIMENTS.md). Everything below is the original upstream README.
+
 <img width="3840" height="1280" alt="1920x640-discord" src="https://github.com/user-attachments/assets/90607b26-171f-476a-90ae-69b9dbb7cb30" />
 
 <br>

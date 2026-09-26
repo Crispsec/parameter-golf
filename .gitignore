@@ -9,3 +9,13 @@ data/docs_selected.jsonl
 .mypy_cache/
 .venv
 logs/
+*.pdf
+# local artifacts / large binaries
+final_model.*
+*.ptz
+*.deb
+*.pdf
+*Zone.Identifier
+/v*_local*.log
+__pycache__/
+.claude/
